@@ -1,0 +1,10 @@
+--- Executive Summary ---
+
+Topic: {{ topic }}
+
+Key Insights:
+{{ context }}
+
+Prepared for internal distribution. For further information, please contact the support team.
+
+--- End of Summary ---

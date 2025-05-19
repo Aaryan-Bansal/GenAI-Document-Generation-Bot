@@ -1,0 +1,12 @@
+--- Report Start ---
+
+Title: {{ title }}
+
+Date: {{ date }}
+
+Summary of Findings:
+{{ context }}
+
+Thank you for reviewing this report.
+
+--- Report End ---

@@ -1,0 +1,11 @@
+Subject: {{ title }}
+Date: {{ date }}
+
+Dear {{ recipient }},
+
+{{ context }}
+
+If you have further queries, feel free to reach out.
+
+Sincerely,  
+Customer Support Team

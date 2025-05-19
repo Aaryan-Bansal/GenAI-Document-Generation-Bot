@@ -29,7 +29,7 @@ PREDEFINED_PDF_FILES = ["dog_allergies.pdf", "unfiltered_dogs.pdf"]
 PREDEFINED_WEB_URLS = [
     "https://www.hsallergy.com/allergy-extracts/Dog-Hair-Extracts/"
 ]
-GEMINI_API_KEY = "AIzaSyBnPMtmYL2H-6A3ujlW6A-UKdV9348nTVc"  
+GEMINI_API_KEY = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"  
 
 
 genai.configure(api_key=GEMINI_API_KEY)
